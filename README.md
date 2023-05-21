@@ -1,4 +1,4 @@
-# Dino-vs-Holloween
+# Dino-vs-Halloween
 We are supposed to be scared on Halloween. The fear of gamers is disconnection from the Internet. So play Dino on LaminApp.
 
 <img src="https://blog.laminapp.com/wp-content/uploads/2022/10/dino_vs_halloween.jpg">
